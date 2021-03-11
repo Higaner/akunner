@@ -20,7 +20,7 @@ Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cl
   | `V2_WS_PATH_VMESS` </br> `V2_WS_PATH_VLESS` | Select one of the VMess and VLESS protocols, and fill in a combination of numbers and English letters. |
 
 - Click the `Run workflow` button on the Actions page.
-- Wait for the deployment to complete.
+- Wait for the deployment id to complete.
 - Click the relevant application on the [Cloud Foundry Public](https://cloud.ibm.com/cloudfoundry/public) page to view the access address.
 
 > **TIPS:** You can customize the API address and App memory size through the workflow file.
